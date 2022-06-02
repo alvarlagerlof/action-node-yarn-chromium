@@ -1,0 +1,5 @@
+name: 'Node Yarn Chromium Aciton'
+description: 'Node, Yarn, and Chromium in a GitHub Action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
